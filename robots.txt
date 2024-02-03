@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://sesof.github.io/pt/sitemap.txt
